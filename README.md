@@ -1,2 +1,2 @@
 # shyamsample
-sample   project to understand git
+sample project to understand git
